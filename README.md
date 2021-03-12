@@ -1,4 +1,4 @@
-# Laptop-store
+# Budget-app
 ## Depployment
 More detail on:
 https://budget-app-tramng.netlify.app/
